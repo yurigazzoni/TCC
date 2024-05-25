@@ -1,15 +1,41 @@
-% Capítulo 1 - 
+% ----------------------------------------------------------
+\chapter{Revisão Bibliográfica}
+% ----------------------------------------------------------
 
-\documentclass{article}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage{geometry}
-\geometry{a4paper}
-\usepackage[frenchb]{babel}
-\title{Premier document}
-\author{Un TeXnicien}
-\date{}
-\begin{document}
-\maketitle
-Voici un texte accentué en français!
-\end{document}
+Para atingir o objetivo de projetar um computador de bordo robusto, foi preciso buscar na literatura acadêmica o estado da arte, principalmente no que tange o projeto de OBDHs para satélites de pequeno porte. Um panorama geral foi feito, verificando-se os principais tipos de componentes eletrônicos utilizados, especificamente processadores, memórias voláteis e não-voláteis, interfaces de comunicação e outros periféricos (ADCs, RTC, sensores, etc.), além dos componentes passivos a serem usados na PCB.
+
+Para se dar início ao projeto, foi necessária a investigação de alguns modelos comerciais de computadores de bordo com herança de voo. O resultado dessa pesquisa é apresentado na Tabela \ref{tab:Tab_Rev}.
+
+\begin{table}[htb]
+	\ABNTEXfontereduzida
+	\caption{\label{tab:Tab_Rev}Principais componentes usados pelos fabricantes de OBDHs comerciais.}
+	%\begin{tabular}{@{}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{2cm}p{3cm}@{}}
+    \begin{tabular}{@{}p{2cm}p{2.6cm}p{2cm}p{2cm}p{2.2cm}p{2.6cm}@{}}
+		\toprule
+		\textbf{Fabricante} & \textbf{Nome do Produto} & \textbf{Processador} & \textbf{Memórias} & \textbf{Periféricos} & \textbf{Interfaces de comunicação} \\ 
+        \midrule
+        GomSpace & NanoMind A3200 & AT32UC3C & Flash, SDRAM, FRAM & Giroscópio, Magnetômetro, Transceivers, Sensores de temperatura & CAN, I2C, SPI, JTAG, USART \\%https://gomspace.com/UserFiles/Subsystems/datasheet/gs-ds-nanomind-a3200_1006901-117.pdf
+        
+        \midrule
+        GomSpace & NanoMind HPMK3 & Zynq 7030 & Flash, eMMC, DDR3 & Watchdog, Sensores de temperatura, VCO, Sensores de tensão e corrente & CAN, USART, USB, I2C, JTAG, LVDS, SpaceWire \\ %https://gomspace.com/UserFiles/Subsystems/datasheet/gs-ds-NanoMind_HP_MK3.pdf
+
+        \midrule
+        ISIS Space & ISIS On Board Computer & Atmel & Flash, SDRAM, FRAM, Cartões SD & Sensores de temperatura, Sensores de tensão e corrente, RTC, ADC & USART, USB, I2C, JTAG, PWM \\ %https://www.isispace.nl/product/on-board-computer/
+
+        \midrule
+        Kongsberg & SatBus 3C2 & Não informado & Flash, FRAM, Cartões SD & Giroscópio, Magnetômetro, Rádio UHF, ADC & CAN, SPI, I2C, USART, PWM, USB \\ %https://nanoavionics.com/cubesat-components/cubesat-on-board-computer-main-bus-unit-satbus-3c2/
+
+        \midrule
+        AAC Clyde Space & Kryten-M3 & Smart Fusion 2 SoC & MRAM, eNVM & RTC, Sensores de tensão e corrente & CAN, SPI, I2C, USART, RS422, LVDS \\ %https://www.aac-clyde.space/what-we-do/space-products-components/command-data-handling/kryten-m3       
+
+
+		
+        \\ \bottomrule
+	\end{tabular}
+	\fonte{Dados da pesquisa.}
+\end{table}
+
+
+
+ 
+
