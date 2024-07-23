@@ -15,7 +15,7 @@ PinSwapBy_Pin=1
 AllowPortNetNames=0
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
-NetlistSinglePinNets=0
+NetlistSinglePinNets=1
 DefaultConfiguration=Sources
 UserID=0xFFFFFFFF
 DefaultPcbProtel=1
@@ -866,6 +866,31 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document49]
+DocumentPath=schematics\02-connections.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ESRJGPCT
+
+[Parameter1]
+Name=Revision
+Value=v0.1
+
+[Parameter2]
+Name=Author
+Value=Yuri G Rezende
 
 [Configuration1]
 Name=Sources
