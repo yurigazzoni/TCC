@@ -1,1 +1,0 @@
-DDR Signals=DDR_ADR[15..0],DDR_DQ[15..0],DDR_DM[1..0],DDR_BA[2..0],{DDR_DiffPairs:DDR DiffPairs},{DDR_Control:DDR Control}

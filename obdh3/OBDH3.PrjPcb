@@ -970,23 +970,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JOKSIVOK
 
 [Document55]
-DocumentPath=schematics\03-zynq.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document56]
 DocumentPath=schematics\06-zynq_ddr.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1003,7 +986,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document57]
+[Document56]
 DocumentPath=schematics\07-ddr.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1020,7 +1003,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document58]
+[Document57]
 DocumentPath=schematics\08-non_volatile_memories.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1037,7 +1020,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WYJWXMIG
 
-[Document59]
+[Document58]
 DocumentPath=schematics\08-non_volatile_memories.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1054,7 +1037,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document60]
+[Document59]
 DocumentPath=schematics\05-zynq_io.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
