@@ -1140,12 +1140,16 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Author
-Value=Yuri G Rezende
+Name=SheetTotal
+Value=12
 
 [Parameter2]
 Name=Revision
 Value=v0.1
+
+[Parameter3]
+Name=Author
+Value=Yuri G Rezende
 
 [Configuration1]
 Name=Sources
