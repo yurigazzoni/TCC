@@ -151,7 +151,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MCHJGXXB
 
 [Document7]
 DocumentPath=..\lib_components\lib\Battery.PcbLib
@@ -185,7 +185,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=EWGDOPXT
 
 [Document9]
 DocumentPath=..\lib_components\lib\Capacitor.PcbLib
@@ -219,7 +219,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CVIKKUNJ
 
 [Document11]
 DocumentPath=..\lib_components\lib\Connector.PcbLib
@@ -253,7 +253,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=WNIEEFFI
 
 [Document13]
 DocumentPath=..\lib_components\lib\Crystal.PcbLib
@@ -287,7 +287,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UIMEOUVH
 
 [Document15]
 DocumentPath=..\lib_components\lib\Diode.PcbLib
@@ -321,7 +321,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IHOPTCIF
 
 [Document17]
 DocumentPath=..\lib_components\lib\Display.PcbLib
@@ -355,7 +355,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=YYTAFYQG
 
 [Document19]
 DocumentPath=..\lib_components\lib\Fuse.PcbLib
@@ -389,7 +389,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GOSUAVJO
 
 [Document21]
 DocumentPath=..\lib_components\lib\Heat_Sink.PcbLib
@@ -423,7 +423,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HFILIMSJ
 
 [Document23]
 DocumentPath=..\lib_components\lib\Holder.PcbLib
@@ -457,7 +457,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=ILAMXWXO
 
 [Document25]
 DocumentPath=..\lib_components\lib\Inductor.PcbLib
@@ -491,7 +491,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FGKRSXXH
 
 [Document27]
 DocumentPath=..\lib_components\lib\Integrated_Circuit.PcbLib
@@ -525,7 +525,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AXXKQOWS
 
 [Document29]
 DocumentPath=..\lib_components\lib\Miscellaneous.PcbLib
@@ -559,7 +559,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HOQOEUTX
 
 [Document31]
 DocumentPath=..\lib_components\lib\Relay.PcbLib
@@ -593,7 +593,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=GHEIIMKB
 
 [Document33]
 DocumentPath=..\lib_components\lib\Resistor.PcbLib
@@ -627,7 +627,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LVACFYKA
 
 [Document35]
 DocumentPath=..\lib_components\lib\SOM.PcbLib
@@ -661,7 +661,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TVRHNDBM
 
 [Document37]
 DocumentPath=..\lib_components\lib\Switch.PcbLib
@@ -695,7 +695,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UYHPRRMJ
 
 [Document39]
 DocumentPath=..\lib_components\lib\Thyristor.PcbLib
@@ -729,7 +729,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=OOVFOPGB
 
 [Document41]
 DocumentPath=..\lib_components\lib\Transducer.PcbLib
@@ -763,7 +763,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=FEYVDAYR
 
 [Document43]
 DocumentPath=..\lib_components\lib\Transformer.PcbLib
@@ -797,7 +797,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RYCYXOAQ
 
 [Document45]
 DocumentPath=..\lib_components\lib\Transistor.PcbLib
@@ -831,7 +831,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=DJMFUNYA
 
 [Document47]
 DocumentPath=..\lib_components\lib\Varistor.PcbLib
@@ -865,7 +865,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=VERXVLMR
 
 [Document49]
 DocumentPath=schematics\02-connections.SchDoc
@@ -1103,10 +1103,27 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=KLWTYNWH
 
 [Document63]
 DocumentPath=schematics\11b-power_system.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SSACBVMY
+
+[Document64]
+DocumentPath=outputs\TCC_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
