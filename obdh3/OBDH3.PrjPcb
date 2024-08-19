@@ -936,7 +936,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KCWYIWZN
 
 [Document53]
-DocumentPath=schematics\05-zynq_io.SchDoc
+DocumentPath=schematics\06-zynq_io_ps.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -953,7 +953,24 @@ GenerateClassCluster=0
 DocumentUniqueId=KIIIRAGH
 
 [Document54]
-DocumentPath=schematics\06-zynq_ddr.SchDoc
+DocumentPath=schematics\07-zynq_io_pl.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YODKPUVR
+
+[Document55]
+DocumentPath=schematics\08-zynq_ddr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -969,8 +986,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACZUHGAU
 
-[Document55]
-DocumentPath=schematics\07-ddr.SchDoc
+[Document56]
+DocumentPath=schematics\09-ddr.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -986,25 +1003,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JOKSIVOK
 
-[Document56]
-DocumentPath=schematics\06-zynq_ddr.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document57]
-DocumentPath=schematics\07-ddr.Harness
+DocumentPath=schematics\08-zynq_ddr.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1021,24 +1021,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document58]
-DocumentPath=schematics\08-non_volatile_memories.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=7
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WYJWXMIG
-
-[Document59]
-DocumentPath=schematics\08-non_volatile_memories.Harness
+DocumentPath=schematics\09-ddr.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1054,8 +1037,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document59]
+DocumentPath=schematics\10-non_volatile_memories.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WYJWXMIG
+
 [Document60]
-DocumentPath=schematics\09-communications.SchDoc
+DocumentPath=schematics\10-non_volatile_memories.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document61]
+DocumentPath=schematics\11-communications.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1071,8 +1088,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OFLYCIKW
 
-[Document61]
-DocumentPath=schematics\10-monitoring.SchDoc
+[Document62]
+DocumentPath=schematics\12-monitoring.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1088,8 +1105,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KCFSMPZI
 
-[Document62]
-DocumentPath=schematics\11a-power_system.SchDoc
+[Document63]
+DocumentPath=schematics\13-power_system_a.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1105,8 +1122,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KLWTYNWH
 
-[Document63]
-DocumentPath=schematics\11b-power_system.SchDoc
+[Document64]
+DocumentPath=schematics\14-power_system_b.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1122,7 +1139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SSACBVMY
 
-[Document64]
+[Document65]
 DocumentPath=outputs\TCC_Job.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -1139,8 +1156,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document65]
-DocumentPath=schematics\05-zynq_io.Harness
+[Document66]
+DocumentPath=schematics\06-zynq_io_ps.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
