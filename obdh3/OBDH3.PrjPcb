@@ -903,7 +903,7 @@ DocumentUniqueId=JMBSBMCA
 
 [Document51]
 DocumentPath=schematics\04-zynq_config.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1107,7 +1107,7 @@ DocumentUniqueId=KCFSMPZI
 
 [Document63]
 DocumentPath=schematics\13-power_system_a.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
