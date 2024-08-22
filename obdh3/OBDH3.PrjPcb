@@ -70,7 +70,7 @@ DocumentUniqueId=SMPYGXOU
 
 [Document2]
 DocumentPath=schematics\01-architecture.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -869,7 +869,7 @@ DocumentUniqueId=VERXVLMR
 
 [Document49]
 DocumentPath=schematics\02-connections.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -886,7 +886,7 @@ DocumentUniqueId=ESRJGPCT
 
 [Document50]
 DocumentPath=schematics\03-zynq.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -920,7 +920,7 @@ DocumentUniqueId=VVOMBQBY
 
 [Document52]
 DocumentPath=schematics\05-zynq_power.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -937,7 +937,7 @@ DocumentUniqueId=KCWYIWZN
 
 [Document53]
 DocumentPath=schematics\06-zynq_io_ps.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -954,7 +954,7 @@ DocumentUniqueId=KIIIRAGH
 
 [Document54]
 DocumentPath=schematics\07-zynq_io_pl.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -971,7 +971,7 @@ DocumentUniqueId=YODKPUVR
 
 [Document55]
 DocumentPath=schematics\08-zynq_ddr.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -988,7 +988,7 @@ DocumentUniqueId=ACZUHGAU
 
 [Document56]
 DocumentPath=schematics\09-ddr.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1039,7 +1039,7 @@ DocumentUniqueId=
 
 [Document59]
 DocumentPath=schematics\10-non_volatile_memories.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1073,7 +1073,7 @@ DocumentUniqueId=
 
 [Document61]
 DocumentPath=schematics\11-communications.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1090,7 +1090,7 @@ DocumentUniqueId=OFLYCIKW
 
 [Document62]
 DocumentPath=schematics\12-monitoring.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1107,7 +1107,7 @@ DocumentUniqueId=KCFSMPZI
 
 [Document63]
 DocumentPath=schematics\13-power_system_a.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1124,7 +1124,7 @@ DocumentUniqueId=KLWTYNWH
 
 [Document64]
 DocumentPath=schematics\14-power_system_b.SchDoc
-AnnotationEnabled=1
+AnnotationEnabled=0
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -2101,8 +2101,8 @@ UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
 ComponentLibraryIdentifier0=TCC_sch.SchLib
-ComponentDesignItemID0=TPS51200DRCR
-ComponentSymbolReference0=TPS51200DRCR
+ComponentDesignItemID0=XC7Z030-2SBG485I
+ComponentSymbolReference0=XC7Z030-2SBG485I
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -2129,7 +2129,7 @@ ParameterUpdate3=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=10-VSON
+ModelName0=SBG485
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
