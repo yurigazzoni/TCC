@@ -70,7 +70,7 @@ DocumentUniqueId=SMPYGXOU
 
 [Document2]
 DocumentPath=schematics\01-architecture.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -869,7 +869,7 @@ DocumentUniqueId=VERXVLMR
 
 [Document49]
 DocumentPath=schematics\02-connections.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -886,7 +886,7 @@ DocumentUniqueId=ESRJGPCT
 
 [Document50]
 DocumentPath=schematics\03-zynq.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -903,7 +903,7 @@ DocumentUniqueId=JMBSBMCA
 
 [Document51]
 DocumentPath=schematics\04-zynq_config.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -920,7 +920,7 @@ DocumentUniqueId=VVOMBQBY
 
 [Document52]
 DocumentPath=schematics\05-zynq_power.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -937,7 +937,7 @@ DocumentUniqueId=KCWYIWZN
 
 [Document53]
 DocumentPath=schematics\06-zynq_io_ps.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -954,7 +954,7 @@ DocumentUniqueId=KIIIRAGH
 
 [Document54]
 DocumentPath=schematics\07-zynq_io_pl.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1039,7 +1039,7 @@ DocumentUniqueId=
 
 [Document59]
 DocumentPath=schematics\10-non_volatile_memories.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1073,7 +1073,7 @@ DocumentUniqueId=
 
 [Document61]
 DocumentPath=schematics\11-communications.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1090,7 +1090,7 @@ DocumentUniqueId=OFLYCIKW
 
 [Document62]
 DocumentPath=schematics\12-monitoring.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1107,7 +1107,7 @@ DocumentUniqueId=KCFSMPZI
 
 [Document63]
 DocumentPath=schematics\13-power_system_a.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1124,7 +1124,7 @@ DocumentUniqueId=KLWTYNWH
 
 [Document64]
 DocumentPath=schematics\14-power_system_b.SchDoc
-AnnotationEnabled=0
+AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
@@ -1174,16 +1174,16 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Author
-Value=Yuri G Rezende
+Name=SheetTotal
+Value=12
 
 [Parameter2]
 Name=Revision
 Value=v0.1
 
 [Parameter3]
-Name=SheetTotal
-Value=12
+Name=Author
+Value=Yuri G Rezende
 
 [Configuration1]
 Name=Sources
@@ -1933,7 +1933,7 @@ Type30=1
 Type31=1
 Type32=2
 Type33=0
-Type34=2
+Type34=1
 Type35=1
 Type36=2
 Type37=1
