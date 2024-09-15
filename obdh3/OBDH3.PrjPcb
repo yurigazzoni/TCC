@@ -1173,17 +1173,34 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document67]
+DocumentPath=schematics\07-zynq_io_pl.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Parameter1]
-Name=SheetTotal
-Value=12
+Name=Author
+Value=Yuri G Rezende
 
 [Parameter2]
 Name=Revision
 Value=v0.1
 
 [Parameter3]
-Name=Author
-Value=Yuri G Rezende
+Name=SheetTotal
+Value=12
 
 [Configuration1]
 Name=Sources
