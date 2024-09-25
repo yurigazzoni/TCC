@@ -1089,7 +1089,7 @@ GenerateClassCluster=0
 DocumentUniqueId=OFLYCIKW
 
 [Document62]
-DocumentPath=schematics\12-monitoring.SchDoc
+DocumentPath=schematics\12-analog_circuits.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
