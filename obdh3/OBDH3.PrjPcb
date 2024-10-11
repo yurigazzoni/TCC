@@ -1106,7 +1106,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KCFSMPZI
 
 [Document63]
-DocumentPath=schematics\13-power_system_a.SchDoc
+DocumentPath=schematics\14-power_system_a.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1123,7 +1123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KLWTYNWH
 
 [Document64]
-DocumentPath=schematics\14-power_system_b.SchDoc
+DocumentPath=schematics\15-power_system_b.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1206,6 +1206,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document69]
+DocumentPath=schematics\13-adcs.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FKHXAJFG
 
 [Parameter1]
 Name=Author
