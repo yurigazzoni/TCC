@@ -1214,7 +1214,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=16
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1282,7 +1282,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=17
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -1327,16 +1327,16 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=Author
-Value=Yuri G Rezende
+Name=SheetTotal
+Value=16
 
 [Parameter2]
 Name=Revision
 Value=v0.1
 
 [Parameter3]
-Name=SheetTotal
-Value=12
+Name=Author
+Value=Yuri G Rezende
 
 [Configuration1]
 Name=Sources
